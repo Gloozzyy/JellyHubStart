@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Gloozzyy/JellyHub/main/JellyHubMAINSCRIPT
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Gloozzyy/JellyHub/main/JellyHubMAINSCRIPT'))()
